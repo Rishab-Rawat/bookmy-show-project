@@ -1,4 +1,4 @@
-# BookMyShow-Scale Ticketing Backend — P1 & P2
+# BookMyShow-Scale Ticketing Backend — P1 and P2
 
 ## Files
 - `submission.docx`: polished submission document.
